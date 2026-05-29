@@ -84,6 +84,11 @@ I build data-driven solutions at the intersection of **machine learning**, **env
 - Power BI dashboards for business analytics
 - Statistical methods for data analysis
 - Python for data analyst workflows (Pandas, Matplotlib, Seaborn)
+- ## GitHub Stats
+
+![Vishaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishu-code-spec&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishu-code-spec&layout=compact&theme=dark&hide_border=true)
 
 ---
 
