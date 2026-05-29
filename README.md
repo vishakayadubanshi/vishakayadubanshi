@@ -17,7 +17,7 @@ Final-year B.Tech student in **Computer Science Engineering (Data Science)** at 
 I build data-driven solutions at the intersection of **machine learning**, **environmental tech**, and **real-world impact**. My work ranges from air quality monitoring apps to agri-waste conversion systems that pay Indian farmers via UPI.
 
 - 🏆 **Smart India Hackathon** — College-level winner
-- 🥇 **3rt Place** — College Project Expo
+- 🥇 **1st Place** — College Project Expo
 - 📊 Currently building a **Data Analyst portfolio** (Excel · SQL · Python · Power BI)
 - 🌱 Passionate about **sustainability tech** and **AgriTech**
 - 📍 Kadapa, Andhra Pradesh, India
