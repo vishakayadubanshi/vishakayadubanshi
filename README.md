@@ -1,10 +1,10 @@
 <div align="center">
 
 # Vishaka Yadubanshi
-
+### Data Science Engineer · AgriTech Builder · ML Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishaka-yadubanshi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishu-code-spec)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishakayadubanshi)
 
 </div>
 
@@ -16,7 +16,7 @@ Final-year B.Tech student in **Computer Science Engineering (Data Science)** at 
 
 I build data-driven solutions at the intersection of **machine learning**, **environmental tech**, and **real-world impact**. My work ranges from air quality monitoring apps to agri-waste conversion systems that pay Indian farmers via UPI.
 
-- 🏆 **Smart India Hackathon** — College-level winner
+- 🏆 **Smart India Hackathon** —selected collage level 
 - 🥇 **1st Place** — College Project Expo
 - 📊 Currently building a **Data Analyst portfolio** (Excel · SQL · Python · Power BI)
 - 🌱 Passionate about **sustainability tech** and **AgriTech**
@@ -73,8 +73,8 @@ I build data-driven solutions at the intersection of **machine learning**, **env
 
 ## Certifications
 
-- 📜 **certificate** — google analytics
-- 📜 **Springboard** — Data Analytics
+- 📜 **googlecertificate** — data analtics
+- 📜 **Springboard** —database and sql   
 
 ---
 
@@ -84,18 +84,17 @@ I build data-driven solutions at the intersection of **machine learning**, **env
 - Power BI dashboards for business analytics
 - Statistical methods for data analysis
 - Python for data analyst workflows (Pandas, Matplotlib, Seaborn)
-- ## GitHub Stats
-
-![Vishaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishu-code-spec&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishu-code-spec&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-<div align="center">
+## GitHub Stats
+
+![Vishaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishakayadubanshi&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishakayadubanshi&layout=compact&theme=dark&hide_border=true)
+
+---
 
 *"Data is not just numbers — it's the story of what's happening in the world."*
 
 **Open to Data Analyst internships and entry-level roles | Available from 2027**
-
-</div>
