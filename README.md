@@ -59,6 +59,13 @@ I build data-driven solutions at the intersection of **machine learning**, **env
 - PWA with offline support via service workers
 - Built with: `JavaScript` `Leaflet.js` `Chart.js` `OpenWeatherMap API`
 
+- ### 🏏 IPL Match Analysis (2008-2020)
+> Exploratory Data Analysis of 13 seasons of IPL data
+
+- Teams, venues, toss impact, player performance analysis
+- Season-wise trends and win type breakdown
+- Built with: `Python` `Pandas` `Matplotlib` `Seaborn`
+
 ---
 
 ### 🌾 BiocharGo — AgriTech Waste-to-Value Platform *(Concept)*
