@@ -94,10 +94,8 @@ I build data-driven solutions at the intersection of **machine learning**, **env
 
 - Advanced SQL (window functions, query optimization)
 - Power BI dashboards for business analytics
-- Statistical methods for data analysis
+- Statistical methods for data analysis---------------
 - Python for data analyst workflows (Pandas, Matplotlib, Seaborn)
-
----
 
 ## GitHub Stats
 
