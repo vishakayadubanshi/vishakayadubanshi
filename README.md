@@ -75,7 +75,13 @@ I build data-driven solutions at the intersection of **machine learning**, **env
 - Season-wise trends and win type breakdown
 - Built with: `Python` `Pandas` `Matplotlib` `Seaborn`
 
----
+  ### 📉 Customer Churn Analysis
+> Predicting customer churn using ML with 80% accuracy
+
+- Analyzed churn patterns by contract type, tenure, monthly charges
+- Built Logistic Regression model with confusion matrix evaluation
+- Built with: `Python` `Pandas` `Scikit-learn` `Seaborn`
+
 
 ## Certifications
 
