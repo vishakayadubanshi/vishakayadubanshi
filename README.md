@@ -82,6 +82,13 @@ I build data-driven solutions at the intersection of **machine learning**, **env
 - Built Logistic Regression model with confusion matrix evaluation
 - Built with: `Python` `Pandas` `Scikit-learn` `Seaborn`
 
+### 🛒 E-Commerce Sales Analysis (SQL)
+> Business insights from retail sales data using advanced SQL
+
+- 10 SQL queries including JOINs, Window Functions and CTEs
+- Revenue by category, city, monthly trends
+- Customer segmentation into High Value vs Regular
+- Built with: `Python` `SQLite` `Pandas` `Matplotlib`
 
 ## Certifications
 
