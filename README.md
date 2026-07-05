@@ -114,11 +114,9 @@ I build data-driven solutions at the intersection of **machine learning**, **sta
 - Statistical methods for data analysis
 - Python for data analyst workflows (Pandas, Matplotlib, Seaborn)
 
----
+![Vishaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishakayadubanshi&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Vishaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishakayadubanshi&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishakayadubanshi&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishakayadubanshi&layout=compact&theme=dark&hide_border=true)
 
 *"Data is not just numbers — it's the story of what's happening in the world."*
 
