@@ -90,6 +90,14 @@ I build data-driven solutions at the intersection of **machine learning**, **env
 - Customer segmentation into High Value vs Regular
 - Built with: `Python` `SQLite` `Pandas` `Matplotlib`
 
+### 📊 A/B Testing & Statistical Analysis
+> Statistical hypothesis testing on 20,000 users — Amazon/Flipkart interview level
+
+- Found 16.7% conversion rate lift — statistically significant (p<0.05)
+- Chi-Square test, T-Test, confidence intervals, power analysis
+- Projected ₹32 Crore annual revenue increase from test results
+- Built with: `Python` `SciPy` `Statsmodels` `Pandas` `NumPy`
+
 ## Certifications
 
 - 📜 **googlecertificate** — data analtics
