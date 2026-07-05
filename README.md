@@ -116,13 +116,9 @@ I build data-driven solutions at the intersection of **machine learning**, **sta
 
 ---
 
-## GitHub Stats
+![Vishaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishakayadubanshi&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
-![Vishaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishakayadubanshi&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishakayadubanshi&layout=compact&theme=dark&hide_border=true)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishakayadubanshi&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 *"Data is not just numbers — it's the story of what's happening in the world."*
 
